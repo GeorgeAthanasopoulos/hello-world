@@ -1,2 +1,3 @@
 # hello-world
-Just a random repository
+I am a newbie computer programmer trying to learn new things.
+
